@@ -1,0 +1,11 @@
+.header{
+    justify-content: space-between;
+}
+.black{
+    text-align: center;
+    background-image: url();
+    padding-top: 100px;
+    background-image: url(./foto7.jpg);
+    background-repeat: no-repeat;
+    color: black;
+}
